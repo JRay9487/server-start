@@ -1,0 +1,7 @@
+//THISI S MINECRAFT SERVER START SCRIPT BY JRAY
+//COPYRIGHT FOR JRAY(2021)
+
+call setting.bat
+echo Starting server
+java -server -Xmx%MAX_RAM% %JAVA_PARAMETERS% -jar %FORGEJAR% nogui
+pause
