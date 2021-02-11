@@ -1,5 +1,6 @@
 # server-start
 server start script
+
 THIS IS MINECRAFT SERVER START SCRIPT BY JRAY
 COPYRIGHT FOR JRAY(2021)
 
